@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "460311220421",
+    "project_id": "calculator-4b0ad",
+    "storage_bucket": "calculator-4b0ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460311220421:android:eec0d3e4278e516faae0ac",
+        "android_client_info": {
+          "package_name": "com.shivamsingh.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460311220421-pmp2oeuhudl2eosk37kh85vs5eq1150p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp0bGtNotRa7lt4MttJ4vZJk5wnAudCiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460311220421-pmp2oeuhudl2eosk37kh85vs5eq1150p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460311220421:android:cb5d1b33fe75dfe4aae0ac",
+        "android_client_info": {
+          "package_name": "pdf.dudepdftools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460311220421-pmp2oeuhudl2eosk37kh85vs5eq1150p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp0bGtNotRa7lt4MttJ4vZJk5wnAudCiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460311220421-pmp2oeuhudl2eosk37kh85vs5eq1150p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
